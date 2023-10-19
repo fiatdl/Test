@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 124e9914bc62b6044a847f031402dd54, type: 3}
+  m_Name: card 6
+  m_EditorClassIdentifier: 
+  preFab: {fileID: 1678136374994816090, guid: 8463cd53048f9f44ab80cc06bdedd002, type: 3}
+  sprite: {fileID: 21300000, guid: 98a4b21761f1dfb4bac8e0e35c8754d4, type: 3}
+  objectName: flower6
+  priority: 6

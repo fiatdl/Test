@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 880db8818729f814bbc2215d74481cd6, type: 3}
+  m_Name: GameSound
+  m_EditorClassIdentifier: 
+  hit: {fileID: 8300000, guid: b4aaed12f8cd42d418206ef90814399f, type: 3}
+  correct: {fileID: 8300000, guid: d711eba35884eb148935f087773d9517, type: 3}
+  gameover: {fileID: 8300000, guid: 5e179abe77d8db9418c2762fc3416b8c, type: 3}
+  Victory: {fileID: 8300000, guid: bde7a129a9211c741aab0f9796e2717e, type: 3}
+  GameMusic: {fileID: 8300000, guid: 7bb516c5497c2b140b95020de3869a04, type: 3}
